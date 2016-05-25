@@ -1,0 +1,155 @@
+
+.btn-submit{
+	width: 50%;
+	margin:0 auto;
+	display: block;
+}
+
+/* Format par 8 */
+
+page.x8{
+
+}
+
+page.x8 img.fond, page.x8 table{
+	position: absolute;
+	width:321px;height:207px;
+}
+
+page.x8 .img-0{
+	top:60px;
+	left:50px;
+}
+
+page.x8 .img-1{
+	top:60px;
+	left:400px;
+}
+
+page.x8 .img-2{
+	top:290px;
+	left:50px;
+}
+
+page.x8 .img-3{
+	top:290px;
+	left:400px;
+}
+
+page.x8 .img-4{
+	top:520px;
+	left:50px;
+}
+
+page.x8 .img-5{
+	top:520px;
+	left:400px;
+}
+
+page.x8 .img-6{
+	top:750px;
+	left:50px;
+}
+
+page.x8 .img-7{
+	top:750px;
+	left:400px;
+}
+
+
+page.x8 .identite{
+	font-size: 20px;
+}
+
+page.x8 .profession{
+
+}
+
+page.x8 .adresse{
+margin-left: 10px;
+}
+
+page.x8 .site{
+
+}
+
+page.x8 .tel{
+margin-left: 10px;
+
+}
+
+page.x8 .mail{
+
+}
+
+/* Format par 4 */
+
+page.x4 *{
+	font-size: 20px;
+}
+
+
+page.x4 img.fond, page.x4 table{
+	position: absolute;
+	width:510px;height:340px;
+}
+
+page.x4 .img-0{
+	top:20px;
+	left:20px;
+}
+
+page.x4 .img-1{
+	top:20px;
+	left:570px;
+}
+
+page.x4 .img-2{
+	top:380px;
+	left:20px;
+}
+
+page.x4 .img-3{
+	top:380px;
+	left:570px;
+}
+
+
+page.x4 .identite{
+	font-size: 45px;
+}
+
+page.x4 .profession{
+	font-size: 30px;
+
+}
+
+page.x4 .adresse{
+margin-left: 10px;
+}
+
+page.x4 .tel{
+margin-left: 10px;
+
+}
+
+page.x4 .mail{
+
+}
+
+
+/* Format par 8 avec photo */
+
+page.x8 img.photo{
+width:100px;
+margin-right: 10px;
+margin-top: 10px;
+}
+
+/* Format par 4 avec photo */
+
+page.x4 img.photo{
+width:180px;
+margin-right: 20px;
+margin-top: 20px;
+}

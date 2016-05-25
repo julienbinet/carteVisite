@@ -1,0 +1,56 @@
+.jumbotron{
+	background: rgba(0, 0, 0, 0) radial-gradient(ellipse at center center , #EFCD83 22%, #FCA50F 100%) repeat scroll 0 0;
+	color: #fff;
+	padding: 60px 0;
+}
+
+.jumbotron h1{
+	font-size: 60px;
+}
+
+.form-control:focus {
+    border-color: #fca50f;
+    box-shadow: 0 1px 1px rgba(0, 0, 0, 0.075) inset, 0 0 8px rgba(252, 165, 15, 0.6);
+    outline: 0 none;
+}
+
+.btn-submit{
+	-webkit-transition: all .5s ease;
+	-moz-transition: all .5s ease;
+	-ms-transition: all .5s ease;
+	-o-transition: all .5s ease;
+	transition: all .5s ease;
+	background: #fca50f none repeat scroll 0 0;
+	border-radius: 20px;
+	border:none;
+	color: #fff;
+	display: block;
+	font-size: 20px;
+	margin: 0 auto;
+	padding: 20px;
+	text-transform: uppercase;
+	width: 50%;
+	text-shadow:0 1px 0 #fff;
+}
+
+
+.btn-submit:hover{
+	background: #000;
+}
+
+.panel-default > .panel-heading{
+	background: #fca50f none repeat scroll 0 0;
+	text-shadow:0 1px 0 #fff;
+	color:#fff;
+	padding: 0;
+}
+
+.panel-default > .panel-heading:hover{
+	background: #000;
+}
+
+.panel-default > .panel-heading a{
+	padding: 10px 15px;
+	display: block;
+	text-decoration: none;
+}
